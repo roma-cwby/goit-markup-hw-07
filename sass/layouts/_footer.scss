@@ -13,6 +13,7 @@
     margin-top: 20px;
 
     @include fonts(none, 14px, 1.71, none);
+    font-style: normal;
 
     color: var(--white-color);
 }
